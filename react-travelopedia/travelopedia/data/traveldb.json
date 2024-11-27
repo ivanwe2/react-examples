@@ -1,0 +1,22 @@
+{
+  "destinations": [
+    {
+      "id": "33",
+      "city": "Plovdive",
+      "country": "Bulgaria",
+      "daysNeeded": 1
+    },
+    {
+      "id": "93.28655500401828",
+      "city": "Sofiq",
+      "country": "Bulgaria",
+      "daysNeeded": 3
+    },
+    {
+      "id": 44.592986498528205,
+      "city": "batinka",
+      "country": "moscow",
+      "daysNeeded": 9
+    }
+  ]
+}
